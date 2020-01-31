@@ -5,7 +5,7 @@ require './inc/functions.php';
 
 session_start();
 
-var_dump($_SESSION);
+//var_dump($_SESSION);
 //initialise le cookie  ou recupere les données de l'utilisateur connecté
 //startSessionSystem();
 
